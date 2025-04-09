@@ -6,7 +6,9 @@
 
 ## Requirements
 - Python 3.7.9
-- Other common packages listed in `environment.yaml`  
+- Other common packages listed in `environment.yaml`
 
+The datasets and related documents for data processing can be accessed at the following link: https://pan.baidu.com/s/1Ye6Gfeb45pVwZr4WOhdvtA?pwd=et41 code: et41
+Please download them and store them in a folder called datasets.
 
 
